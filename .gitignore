@@ -1,5 +1,5 @@
 # Bitwarden db file, we just store dump sql
-db.sqlite3
+db.sqlite3*
 
 # Ignore bitwarden icon_cache
 *.png
