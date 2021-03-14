@@ -1,0 +1,13 @@
+# Bitwarden db file, we just store dump sql
+db.sqlite3
+
+# Ignore bitwarden icon_cache
+*.png
+*.miss
+
+# Ignore folder that bitwarden will create
+icon_cache
+icon_cache/
+attachments
+attachments/
+
